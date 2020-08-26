@@ -7,7 +7,7 @@ Nexter é um site moderno de venda de imóveis global, pelo nexter você consegu
 
 O projeto foi desenvolvido apenas para front-end através da tecnologias HTML e CSS, **_uma vez que tem como o objetivo mostrar o desenvolvimento de aplicações baseadas no Grid-Layout._** Deste modo, Nexter foi totalmente baseado nas funcionalidades do Grid-layout que demonstra ser uma ótima escolha para desenvolver interfaces em CSS3 com mais versatilidade e facilitando muito a vida de um desenvolvedor que conseuge criar layouts com mais fluidez.
 
-# Responsiv
+# Responsividade
 O projeto Nexter foi desenvolvido para ser **responsivo para vários tipos de dispositívos**, ou seja, **o site se adapta totalmente em vários tipos de dispositivo, sendo ele Desktop, Tablets e Celulares**. A responsovidade é um fator importante para o desenvolvimento de uma aplicação, uma vez que é importante a inclusão da aplicação em vários tipos de dispositivos diferentes para os mais variados tipos de usuários 
 
 ### Nexter em desktop
