@@ -1,0 +1,2 @@
+# Nexter
+Nexter é um site moderno de venda de imóveis global, pelo nexter você consegue realizar o sonho da sua casa própria, conta com casas e apartamentos pequenos, médias e grandes, seja para viver em família ou sozinho, Nexter conta com a melhor equipe de corretores do mundo 100% à disposição dos clientes para oferecer maior conforto e comodidade. Independente da casa que você deseja ter, você encontra aqui, conte com o Nexter e conquiste enfim a sua sonhada liberdade
